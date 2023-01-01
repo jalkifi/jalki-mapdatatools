@@ -1,0 +1,4 @@
+(way["highway"="path"]["mtb:scale"="1"](59.72,19.38,70.1,31.72);
+node(w)->.x;);
+out body;
+
